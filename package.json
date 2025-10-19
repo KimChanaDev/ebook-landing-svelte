@@ -33,6 +33,7 @@
 		"vite": "^7.1.7"
 	},
 	"dependencies": {
+		"@sendgrid/mail": "^7.4.2",
 		"@stripe/stripe-js": "^8.1.0",
 		"stripe": "^19.1.0"
 	}
